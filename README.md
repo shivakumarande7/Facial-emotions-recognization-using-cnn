@@ -15,4 +15,4 @@ Face Emotion Recognition is a project which is created on Deep Learning and the 
 3. Run Video Tester.ipynb
 
 # Questions
-For questions, do reach me on <a href="https://linkedin.com/in/shivakumarande9">LinkedIn</a>
+For questions, do reach me on <a href="https://linkedin.com/in/venkata-siva-kumar-ande-24b66722a/">LinkedIn</a>
