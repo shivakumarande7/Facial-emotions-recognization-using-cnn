@@ -12,27 +12,27 @@ Image preprocessing: grayscale conversion, resizing, normalization
 
 Clean and modular codebase
 
-📂 Project Structure
-bash
-Copy
-Edit
-**facial-emotion-detection/**
-**│
+# 📂 Project Structure
+
+<pre> <code>  facial-emotion-detection/
+│
 ├── model/              # Trained model and architecture
 ├── dataset/            # Training and validation data (or dataset loader)
 ├── src/                # CNN model definition and training scripts
 ├── utils/              # Preprocessing and helper functions
 ├── requirements.txt    # Dependencies
 ├── app.py              # Optional real-time detection app
-└── README.md**
+└── README.md 
+</code> </pre>'''
 
 
-**🚀 Getting Started
+
+# 🚀 Getting Started
+<pre> <code>
 bash
 Copy
-Edit**
-
-
+Edit
+</code> </pre>
 # Clone the repository
 git clone https://github.com/yourusername/facial-emotion-detection.git
 cd facial-emotion-detection
@@ -45,11 +45,11 @@ python src/train.py
 
 
 
-📊 **SIMPLE EXAMPLES**
+# 📊 SIMPLE EXAMPLES
+<pre> <code>
 Emotion	Sample Output
 😄 Happy	Detected with high confidence
 😠 Angry	Detected under low light
 😢 Sad	Correctly classified in profile view
+</code></pre>
 
-📄** License **
-This project is licensed under the MIT License.
