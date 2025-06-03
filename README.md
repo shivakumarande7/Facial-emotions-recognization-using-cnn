@@ -1,4 +1,4 @@
-# face-emotion-recognition-python
+# Face-Emotion-Recognition-python
 Face Emotion Recognition is a project which is created on Deep Learning and the Convolutional Neural Network will always predict what was the emotion in every frame when face was found.
 
 # Softwares
