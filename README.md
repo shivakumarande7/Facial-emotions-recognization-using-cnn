@@ -1,55 +1,18 @@
-# Facial-emotions-recognization-using-cnn
-A deep learning project that detects human emotions from facial expressions using a Convolutional Neural Network (CNN). The model is trained on facial image datasets and classifies emotions such as Happy, Sad, Angry, Surprised, Neutral, and more.
+# face-emotion-recognition-python
+Face Emotion Recognition is a project which is created on Deep Learning and the Convolutional Neural Network will always predict what was the emotion in every frame when face was found.
 
-📌 Features
-Real-time facial emotion recognition using OpenCV (optional)
+# Softwares
+1. VS Code
+2. Python3
 
-Trained CNN model on popular facial emotion datasets like FER-2013
+# Packages
+1. pip install opencv-python
+2. pip install tensorflow
 
-Support for 6–7 emotion categories
+# Execution Process
+1. Install all the softwares
+2. Install all the packages
+3. Run Video Tester.ipynb
 
-Image preprocessing: grayscale conversion, resizing, normalization
-
-Clean and modular codebase
-
-# 📂 Project Structure
-
-<pre> <code>  facial-emotion-detection/
-│
-├── model/              # Trained model and architecture
-├── dataset/            # Training and validation data (or dataset loader)
-├── src/                # CNN model definition and training scripts
-├── utils/              # Preprocessing and helper functions
-├── requirements.txt    # Dependencies
-├── app.py              # Optional real-time detection app
-└── README.md 
-</code> </pre>'''
-
-
-
-# 🚀 Getting Started
-<pre> <code>
-bash
-Copy
-Edit
-</code> </pre>
-# Clone the repository
-git clone https://github.com/yourusername/facial-emotion-detection.git
-cd facial-emotion-detection
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Train the model
-python src/train.py
-
-
-
-# 📊 SIMPLE EXAMPLES
-<pre> <code>
-Emotion	Sample Output
-😄 Happy	Detected with high confidence
-😠 Angry	Detected under low light
-😢 Sad	Correctly classified in profile view
-</code></pre>
-
+# Questions
+For questions, do reach me on <a href="https://linkedin.com/in/MadhuPIoT">LinkedIn</a>
