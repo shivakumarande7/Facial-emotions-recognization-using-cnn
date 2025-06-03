@@ -38,11 +38,14 @@ pip install -r requirements.txt
 
 # Train the model
 python src/train.py
-📊 Example Emotions
+
+
+
+📊 **SIMPLE EXAMPLES**
 Emotion	Sample Output
 😄 Happy	Detected with high confidence
 😠 Angry	Detected under low light
 😢 Sad	Correctly classified in profile view
 
-📄 License
+📄** License **
 This project is licensed under the MIT License.
