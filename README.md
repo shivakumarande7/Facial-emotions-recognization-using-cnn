@@ -16,19 +16,23 @@ Clean and modular codebase
 bash
 Copy
 Edit
-facial-emotion-detection/
-│
+**facial-emotion-detection/**
+**│
 ├── model/              # Trained model and architecture
 ├── dataset/            # Training and validation data (or dataset loader)
 ├── src/                # CNN model definition and training scripts
 ├── utils/              # Preprocessing and helper functions
 ├── requirements.txt    # Dependencies
 ├── app.py              # Optional real-time detection app
-└── README.md
-🚀 Getting Started
+└── README.md**
+
+
+**🚀 Getting Started
 bash
 Copy
-Edit
+Edit**
+
+
 # Clone the repository
 git clone https://github.com/yourusername/facial-emotion-detection.git
 cd facial-emotion-detection
